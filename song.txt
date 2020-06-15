@@ -5,7 +5,10 @@ To my comp
 
 I add this 
 To check gui
+<<<<<<< HEAD
 
 Line for restoring
 Line for restoring2
 ------------------------------------
+=======
+>>>>>>> ec22a99b55d046022b06e2e5de8316407445937e
