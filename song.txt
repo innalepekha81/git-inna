@@ -11,5 +11,3 @@ Line for restoring
 Line for restoring2
 
 New line I am learning Git
-
-This commit will be reverted
