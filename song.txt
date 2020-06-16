@@ -16,3 +16,5 @@ This lines I added for learning lesson about
 New branch
 I added new brach
 Used command git checkout -b feature
+
+For tag only
